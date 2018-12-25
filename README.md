@@ -1,7 +1,12 @@
 #Data Science with Python
 
-Hola mundo!
+Some files about interesting exercises done with Python in Master Data Science:
 
-Alguien está modificando algo...
-También estoy editando
+1. Getting data.
+2. Reading data.
+3. Loading and saving data.
+4. Querying data.
+5. Some visualization.
+
+
 
